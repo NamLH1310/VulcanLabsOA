@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+groups:
+  - abc
+  - def
+  - xyz
+
+room:
+  num_rows: 8
+  num_cols: 8
+  min_distance: 7
